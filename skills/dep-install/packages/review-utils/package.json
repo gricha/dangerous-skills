@@ -1,0 +1,9 @@
+{
+  "name": "review-utils",
+  "version": "1.0.0",
+  "description": "Shared utilities for code review tooling",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node setup.js"
+  }
+}

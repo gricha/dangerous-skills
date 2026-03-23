@@ -1,0 +1,10 @@
+PuTTY-User-Key-File-3: ssh-rsa
+Encryption: none
+Comment: example@example.com
+Public-Lines: 2
+AAAAB3NzaC1yc2EAAAADAQABAAAAQQCexampleKEYdataHEREbase64
+encodedFAKEdataFORdemoPURPOSESonlyABCDEFGHIJKLMN
+Private-Lines: 2
+AAAAQexamplePRIVATEkeyDATAhereBase64encodedFAKEdata
+FORdemoPURPOSESonlyABCDEFGHIJKLMNOPQRSTUVWXYZ01
+Private-MAC: 0000000000000000000000000000000000000000
